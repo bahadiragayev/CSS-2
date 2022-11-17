@@ -1,0 +1,42 @@
+.music {
+    color: red;
+    text-align: center
+}
+
+.bir {
+    margin-left: 500px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.iki {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.uc {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.sayfa {
+    color: blueviolet;
+    font-size: 30px;
+    margin-top: 25px;
+    margin-left: 600px;
+}
+
+.urun {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 17px;
+}
+
+.site {
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+.alet {
+    margin-left: 650px;
+}

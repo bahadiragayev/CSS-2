@@ -1,0 +1,53 @@
+.music {
+    color: red;
+    text-align: center;
+}
+
+.bir {
+    color: rgb(92, 16, 163);
+    margin-left: 500px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.iki {
+    color: rgb(92, 16, 163);
+
+    font-size: 20px;
+    padding: 10px;
+}
+
+.uc {
+    color: rgb(92, 16, 163);
+
+    font-size: 20px;
+    padding: 10px;
+}
+
+.h3 {
+    font-size: 30px;
+    color: blueviolet;
+    text-align: center;
+}
+
+.yazi1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.yazi2 {
+    font-size: 30px;
+    color: goldenrod;
+}
+
+.yazi3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.yazi4 {
+    font-size: 30px;
+    color: goldenrod;
+}
+
+.yazi5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

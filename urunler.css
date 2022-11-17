@@ -1,0 +1,94 @@
+.music {
+    color: red;
+    text-align: center;
+}
+
+.bir {
+    color: rgb(92, 16, 163);
+    margin-left: 500px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.iki {
+    color: rgb(92, 16, 163);
+
+    font-size: 20px;
+    padding: 10px;
+}
+
+.uc {
+    color: rgb(92, 16, 163);
+
+    font-size: 20px;
+    padding: 10px;
+}
+
+.h3 {
+    font-size: 30px;
+    color: blueviolet;
+    text-align: center;
+}
+
+.gitara1 {
+    margin-top: 10px;
+    margin-left: 520px;
+}
+
+.git1 {
+    margin-left: 510px;
+
+}
+
+.git11 {
+    margin-left: 530px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.gitara2 {
+    margin-top: 10px;
+    margin-left: 520px;
+}
+
+.git2 {
+    margin-left: 510px;
+
+}
+
+.git22 {
+    margin-left: 530px;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+.drum {
+    margin-top: 10px;
+    margin-left: 520px;
+
+}
+
+.drum1 {
+    margin-left: 510px;
+}
+
+.drum11 {
+    margin-left: 530px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.drum2 {
+    margin-top: 10px;
+    margin-left: 520px;
+}
+
+.drumiki {
+    margin-left: 510px;
+}
+
+.drum22 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 530px;
+}
